@@ -2,7 +2,7 @@
 
 Activity 2 Session 8: (Optional) Full-cycle collaborative workflow — Automated testing documentation 
 
-My example: Robbo-lab/automated_testing_v1: Repository to set up GitHub actions. 
+Following John's example - Robbo-lab/automated_testing_v1: Repository to set up GitHub actions. 
 https://coderefinery.github.io/testing/full-cycle-ci/
 
 These 3 activities will be part of our validation discussion in week 13.
