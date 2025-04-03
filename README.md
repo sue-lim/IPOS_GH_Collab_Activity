@@ -1,4 +1,4 @@
-IPOS GitHub Collaboration Activity 
+##IPOS GitHub Collaboration Activity 
 
 Activity 2 Session 8: (Optional) Full-cycle collaborative workflow — Automated testing documentation 
 
