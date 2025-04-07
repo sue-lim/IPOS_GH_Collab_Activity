@@ -8,11 +8,20 @@ def test_add():
 
 
 def subtract(a, b):
-    return a + b  # <--- fix this in step 8
+    result = a - b  # <--- fix this here for subtract
+    print(f"subtract({a}, {b}) = {result}") # print for debugging
+    return result
 
 
 # uncomment the following test in step 5
 def test_subtract():
    assert subtract(2, 3) == -1
+
+# call subtract for different print results
+subtract(2, 3) # output -1
+subtract(5, 6) # output -1
+subtract(10, 4) # output 6
+subtract(20, 15) # output 5
+
 
 # invoke pytest with "python -m pytest"
